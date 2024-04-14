@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="BhanuPrakashReddyBaddam | LinkedIn" width="22px" src="https://www.linkedin.com/in/bhanu-prakash-reddy-baddam-23a71616b/" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/bhanuprakashreddybaddam
+[linkedin]: https://linkedin.com/in/bhanu-prakash-reddy-baddam-23a71616b/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
