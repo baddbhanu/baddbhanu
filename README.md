@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://www.linkedin.com/in/bhanu-prakash-reddy-baddam-23a71616b/overlay/contact-info/" />][linkedin]
+[<img align="left" alt="BhanuPrakashReddyBaddam | LinkedIn" width="22px" src="https://www.linkedin.com/in/bhanu-prakash-reddy-baddam-23a71616b/" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/bhanuprakashreddybaddam
 
